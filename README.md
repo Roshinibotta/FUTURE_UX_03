@@ -6,7 +6,6 @@ FutureCRM is a modern web-based CRM (Customer Relationship Management) dashboard
 
 This project was created as part of the **Future Interns UI/UX Design Internship Task 3 (2026)**.
 
----
 
 # Objective
 
@@ -18,7 +17,6 @@ The objective of this project is to create a clean, scalable, and professional C
 * Monitor sales performance
 * Improve workflow efficiency
 
----
 
 # 🖥️ Pages Included
 
@@ -33,7 +31,6 @@ A professional authentication page for existing users.
 * Social login buttons
 * Modern SaaS UI layout
 
----
 
 ## 2️⃣ Signup Page
 
@@ -45,7 +42,6 @@ A clean onboarding page for new users.
 * Password confirmation
 * Business-style onboarding design
 
----
 
 ## 3️⃣ Dashboard
 
@@ -59,7 +55,6 @@ The main analytics and business overview page.
 * Recent activity section
 * Upcoming tasks
 
----
 
 ## 4️⃣ Leads Page
 
@@ -73,7 +68,7 @@ A structured page for tracking and managing leads.
 * Search functionality
 * Lead status management
 
----
+
 
 ## 5️⃣ Clients Page
 
@@ -87,7 +82,7 @@ A card-based client management interface.
 * Active / inactive status
 * Search & filters
 
----
+
 
 ## 6️⃣ Tasks Page
 
@@ -101,7 +96,7 @@ A Kanban-style task management board.
 * Overdue tasks
 * Task cards with deadlines
 
----
+
 
 ## 7️⃣ Pipelines Page
 
@@ -115,7 +110,7 @@ A visual sales pipeline management page.
 * Deal tracking
 * Pipeline analytics
 
----
+
 
 # 🎨 Design System
 
@@ -128,14 +123,14 @@ A visual sales pipeline management page.
 | Background | #FFFFFF |
 | Text       | #111827 |
 
----
+
 
 ## Typography
 
 * Font Style: Poppins
 * Clean hierarchy with bold headings and readable body text
 
----
+
 
 # 🧩 UI/UX Decisions
 
@@ -147,7 +142,7 @@ A visual sales pipeline management page.
 * Kanban workflow improves task organization
 * Funnel analytics improve pipeline visibility
 
----
+
 
 # 🔄 Workflow Structure
 
@@ -161,7 +156,7 @@ Leads → Pipelines → Clients → Tasks
 
 The workflow was designed to simulate real CRM software used in SaaS and digital agencies.
 
----
+
 
 # 🛠️ Tools Used
 
@@ -169,7 +164,7 @@ The workflow was designed to simulate real CRM software used in SaaS and digital
 * iCharts Plugin
 * Feather Icons
 
----
+
 
 # 📱 Prototype Features
 
@@ -181,7 +176,7 @@ The project includes clickable prototype navigation between pages:
 * Dashboard → Tasks
 * Dashboard → Pipelines
 
----
+
 
 # 🚀 Project Highlights
 
@@ -200,7 +195,7 @@ The project includes clickable prototype navigation between pages:
 
 ✅ Professional business-focused design
 
----
+
 
 # 📸 Screenshots
 
@@ -213,7 +208,7 @@ The project includes clickable prototype navigation between pages:
 <img width="1440" height="1024" alt="Clients" src="https://github.com/user-attachments/assets/f3eeb7f2-be93-477b-8117-0b3e951310ba" />
 
 
----
+
 
 # 👩‍💻 Designer
 
@@ -221,7 +216,7 @@ The project includes clickable prototype navigation between pages:
 
 UI/UX Design Internship Project – Future Interns
 
----
+
 
 # 📌 Conclusion
 
